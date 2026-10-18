@@ -1,0 +1,19 @@
+# CyberThreatIntelligence — Links & Study
+Repository: https://github.com/Ridd1kulusC0d3r/CyberThreatIntelligence
+Language: pt-BR
+Purpose: Curated, educational, defensive CTI links and study guides. NOT a live threat feed or an intelligence API.
+Last editorial review: 2026-10-18
+
+## Core knowledge
+- https://github.com/Ridd1kulusC0d3r/CyberThreatIntelligence/blob/main/docs/01-fundamentos.md : terms, CTI levels, intelligence questions
+- https://github.com/Ridd1kulusC0d3r/CyberThreatIntelligence/blob/main/docs/02-metodologia.md : analytical workflow, source evaluation and hypotheses
+- https://github.com/Ridd1kulusC0d3r/CyberThreatIntelligence/blob/main/docs/04-trilhas.md : study progression
+- https://github.com/Ridd1kulusC0d3r/CyberThreatIntelligence/blob/main/docs/05-estudos-de-caso.md : fictional examples and historical analysis
+- https://github.com/Ridd1kulusC0d3r/CyberThreatIntelligence/blob/main/docs/06-relatorios.md : reporting and TLP
+- https://github.com/Ridd1kulusC0d3r/CyberThreatIntelligence/blob/main/docs/08-auditoria-e-creditos.md : curation decisions and source provenance
+
+## Machine-readable resources
+- https://github.com/Ridd1kulusC0d3r/CyberThreatIntelligence/blob/main/resources/catalog.json
+
+## Responsible use
+Use links as discovery leads, not as independent verification of claims. Prefer primary sources, retain dates and attribution, and never treat model-generated speculation as confirmed threat intelligence.

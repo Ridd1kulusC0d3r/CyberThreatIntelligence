@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+<title id="title">Cyber Threat Intelligence — Links &amp; Study</title>
+<desc id="desc">Banner azul-marinho com rede de nós, mapa conceitual e tipografia em destaque.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071326"/><stop offset=".65" stop-color="#111c3b"/><stop offset="1" stop-color="#09111f"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#47d1d2"/><stop offset="1" stop-color="#8e78ef"/></linearGradient><radialGradient id="halo"><stop stop-color="#4f6ce1" stop-opacity=".26"/><stop offset="1" stop-color="#4f6ce1" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="350" rx="16" fill="url(#bg)"/>
+<circle cx="992" cy="163" r="260" fill="url(#halo)"/>
+<g fill="none" stroke="#5c73ab" stroke-width="1.4" opacity=".35">
+<path d="M800 55 910 100 1020 54 1110 130 1050 240 935 278 832 220 800 55M910 100 935 278M1020 54 1050 240M832 220 1110 130M800 55 1050 240"/>
+<circle cx="800" cy="55" r="8"/><circle cx="910" cy="100" r="8"/><circle cx="1020" cy="54" r="8"/><circle cx="1110" cy="130" r="8"/><circle cx="1050" cy="240" r="8"/><circle cx="935" cy="278" r="8"/><circle cx="832" cy="220" r="8"/>
+</g>
+<g fill="#47d1d2"><circle cx="910" cy="100" r="5"/><circle cx="1050" cy="240" r="5"/><circle cx="832" cy="220" r="5"/></g>
+<rect x="62" y="53" rx="15" width="216" height="30" fill="#1b3650" stroke="#3ea9ba" stroke-opacity=".5"/>
+<text x="80" y="74" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2" fill="#8ee3e0">RESEARCH • LEARN • ASSESS</text>
+<text x="62" y="153" font-family="Arial,Helvetica,sans-serif" font-size="49" font-weight="700" fill="#f5f7ff">CYBER THREAT</text>
+<text x="62" y="209" font-family="Arial,Helvetica,sans-serif" font-size="49" font-weight="700" fill="url(#line)">INTELLIGENCE</text>
+<rect x="62" y="231" height="3" width="460" rx="1.5" fill="url(#line)"/>
+<text x="62" y="273" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#d0dafa">LINKS &amp; STUDY</text>
+<text x="62" y="307" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#9cb1cd">Evidências verificáveis • Métodos • Fontes • Estudos de caso</text>
+</svg>
