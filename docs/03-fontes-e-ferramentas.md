@@ -73,6 +73,17 @@ A inclusão é bibliográfica; não estamos redistribuindo livros ou usando link
 
 Priorize comunicados de [CISA](https://www.cisa.gov/), [CERT.br](https://www.cert.br/), [Mandiant](https://cloud.google.com/blog/topics/threat-intelligence), [Unit 42](https://unit42.paloaltonetworks.com/) e [Microsoft Threat Intelligence](https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/). São úteis para descoberta, mas continuam exigindo revisão crítica: um relatório de fornecedor pode empregar nomenclatura própria, ter cobertura incompleta ou não publicar as evidências brutas.
 
+## 7. Podcasts e entrevistas selecionados
+
+| Podcast | Valor educacional | Observação |
+|:--|:--|:--|
+| [Janes — Intelligence Podcasts](https://www.janes.com/defence-intelligence-insights/all-intelligence-podcasts) | Panorama de inteligência, defesa e análise contextual | Útil para ampliar repertório além de indicadores |
+| [Nisos — The CYBER5](https://nisos.com/podcasts/cyber5/) | Entrevistas sobre programas de inteligência, atribuição e proteção de marcas | Acervo histórico; não pressupor episódios recentes |
+| [Hacker Valley Studio](https://hackervalley.com/podcast) | Entrevistas e experiências práticas de profissionais | Cobertura ampla de segurança, nem todo episódio é CTI |
+| [ShadowTalk](https://www.iheart.com/podcast/256-shadowtalk-powered-by-reli-30986661/) | Discussões sobre tendências e investigação de ameaças | Fonte de descoberta, exige verificação independente |
+
+Para vídeos com exercícios, comece pelos módulos da [MITRE CTI Training](https://attack.mitre.org/resources/training/cti/). Podcasts são recursos complementares para formular perguntas, não fontes primárias suficientes para sustentar atribuições.
+
 ### Política de inclusão
 
 O arquivo [resources/catalog.json](../resources/catalog.json) é a lista estruturada. Um link estar no catálogo **não significa** que seja um feed verificado continuamente. Para novas sugestões: registrar autor/proprietário, valor de estudo, tipo, nível de maturidade, linguagem, risco de manutenção e possível duplicação.

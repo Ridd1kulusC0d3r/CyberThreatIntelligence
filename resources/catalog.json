@@ -477,6 +477,50 @@
       "language": "multilingue",
       "why": "Exemplo de organização editorial; alegações precisam de verificação.",
       "origin": "gameworkerkim"
+    },
+    {
+      "id": "janes-podcasts",
+      "title": "Janes Intelligence Podcasts",
+      "url": "https://www.janes.com/defence-intelligence-insights/all-intelligence-podcasts",
+      "category": "aprendizado",
+      "level": "intermediario",
+      "kind": "podcast",
+      "language": "en",
+      "why": "Debates e entrevistas com perspectiva de inteligência e defesa.",
+      "origin": "sh4dow-br"
+    },
+    {
+      "id": "nisos-cyber5",
+      "title": "Nisos — The CYBER5",
+      "url": "https://nisos.com/podcasts/cyber5/",
+      "category": "aprendizado",
+      "level": "intermediario",
+      "kind": "podcast",
+      "language": "en",
+      "why": "Discussões sobre programas de inteligência e atribuição.",
+      "origin": "sh4dow-br"
+    },
+    {
+      "id": "hacker-valley",
+      "title": "Hacker Valley Studio",
+      "url": "https://hackervalley.com/podcast",
+      "category": "aprendizado",
+      "level": "todos",
+      "kind": "podcast",
+      "language": "en",
+      "why": "Entrevistas com profissionais; selecionar episódios pertinentes à CTI.",
+      "origin": "sh4dow-br"
+    },
+    {
+      "id": "shadowtalk",
+      "title": "ShadowTalk",
+      "url": "https://www.iheart.com/podcast/256-shadowtalk-powered-by-reli-30986661/",
+      "category": "aprendizado",
+      "level": "intermediario",
+      "kind": "podcast",
+      "language": "en",
+      "why": "Análise e discussão de tendências com checagem de fontes.",
+      "origin": "sh4dow-br"
     }
   ]
 }
