@@ -39,3 +39,4 @@ Eventos diplomáticos, conflitos, sanções e competição econômica podem alte
 Selecione dois textos públicos sobre um evento histórico. Registre: data da observação, autor, evidências reveladas, nível de confiança alegado, hipóteses alternativas omitidas e mudanças depois de eventual correção. Termine com uma avaliação própria **limitada ao que as fontes demonstram**.
 
 > Uma análise madura pode concluir “autoria indeterminada”. Forçar um culpado porque o relatório precisa parecer conclusivo é apenas fabricar certeza.
+

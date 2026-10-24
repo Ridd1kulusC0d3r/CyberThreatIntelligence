@@ -1,6 +1,6 @@
 # Contribuições para CyberThreatIntelligence
 
-Obrigado por ajudar a construir um acervo útil. Este é um projeto editorial de **estudo e curadoria de CTI**, não uma coleção irrestrita de links.
+Obrigado por ajudar a construir um acervo útil. Este é um projeto editorial de **formação, pesquisa defensiva, curadoria de CTI e laboratórios reproduzíveis**, não uma coleção irrestrita de links.
 
 ## Como sugerir um recurso
 
@@ -32,3 +32,16 @@ Esse teste verifica **estrutura e consistência**, não a disponibilidade dos si
 ## Padrão de escrita
 
 Explicite a pergunta de inteligência, diferencie observação de inferência, acrescente hipóteses alternativas, justifique a confiança e cite fontes originais. Em conteúdos derivados de referências, escreva com suas próprias palavras e atribua a inspiração. Não publique alegações geopolíticas categóricas sem evidências substanciais.
+
+
+## Contribuir com módulos e laboratórios
+
+Defina objetivo, pré-requisito, tempo estimado, leitura primária, procedimento, entrega e critérios. Distinga exercício guiado de integração executável. Inclua dados sintéticos com proveniência, casos negativos e limites do teste. Normas devem ter edição/revisão; preserve a referência solicitada e explique substituições. Nunca declare teste não executado ou conformidade organizacional derivada de um exercício.
+
+Antes de publicar, execute também:
+
+```bash
+python3 scripts/validate_learning.py
+python3 scripts/run_soc_lab.py
+python3 scripts/collect_fixture.py --self-test
+```

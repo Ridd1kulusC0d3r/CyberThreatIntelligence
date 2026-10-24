@@ -62,3 +62,4 @@ tags: ["cti", "analise"]
 ```
 
 O esquema é uma sugestão editorial, **não** afirma conformidade integral com STIX, TAXII, OpenCTI ou TLP.
+

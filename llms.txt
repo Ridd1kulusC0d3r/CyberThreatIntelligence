@@ -1,8 +1,8 @@
-# CyberThreatIntelligence — Links & Study
+# CyberThreatIntelligence — Advanced Learning & Research
 Repository: https://github.com/Ridd1kulusC0d3r/CyberThreatIntelligence
 Language: pt-BR
 Purpose: Curated, educational, defensive CTI links and study guides. NOT a live threat feed or an intelligence API.
-Last editorial review: 2026-10-18
+Learning-path editorial review: 2026-10-23
 
 ## Core knowledge
 - https://github.com/Ridd1kulusC0d3r/CyberThreatIntelligence/blob/main/docs/01-fundamentos.md : terms, CTI levels, intelligence questions
@@ -17,3 +17,13 @@ Last editorial review: 2026-10-18
 
 ## Responsible use
 Use links as discovery leads, not as independent verification of claims. Prefer primary sources, retain dates and attribution, and never treat model-generated speculation as confirmed threat intelligence.
+
+
+## Advanced curriculum
+- https://github.com/Ridd1kulusC0d3r/CyberThreatIntelligence/blob/main/learning-paths/cti-48-semanas.md : 48 weeks, 576 proposed study hours
+- https://github.com/Ridd1kulusC0d3r/CyberThreatIntelligence/blob/main/learning-paths/soc-especialista.md : complementary 24 weeks, 288 proposed hours
+- https://github.com/Ridd1kulusC0d3r/CyberThreatIntelligence/blob/main/docs/09-normas-e-rfcs.md : SOC standards, versions and historical RFC caveats
+- https://github.com/Ridd1kulusC0d3r/CyberThreatIntelligence/blob/main/labs/README.md : two offline executable labs and four guided exercises
+- https://github.com/Ridd1kulusC0d3r/CyberThreatIntelligence/blob/main/assessments/rubrica.md : assessment and evidence requirements
+
+No professional certification or job guarantee. Live SIEM/SOAR, Ansible and dynamic malware environments are not deployed by this repository. Distinguish hypothetical evidence, actual observations and inference.

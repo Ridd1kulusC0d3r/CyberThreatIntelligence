@@ -1,12 +1,8 @@
-name: Validate CTI resource catalog
+name: Validate CTI and SOC learning resources
 
 on:
   pull_request:
   push:
-    paths:
-      - "resources/catalog.json"
-      - "scripts/validate_catalog.py"
-      - ".github/workflows/catalog-check.yml"
   workflow_dispatch:
 
 permissions:
@@ -18,5 +14,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Validate JSON catalogue
+      - name: Validate resource catalog
         run: python3 scripts/validate_catalog.py
+      - name: Validate local navigation and curriculum
+        run: python3 scripts/validate_learning.py
+      - name: Exercise SOC query and negative cases
+        run: python3 scripts/run_soc_lab.py
+      - name: Exercise collection recovery
+        run: python3 scripts/collect_fixture.py --self-test

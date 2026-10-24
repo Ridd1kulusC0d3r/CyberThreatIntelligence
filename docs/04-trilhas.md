@@ -2,6 +2,8 @@
 
 [← Biblioteca](03-fontes-e-ferramentas.md) · [Casos →](05-estudos-de-caso.md)
 
+> **Formação avançada:** [CTI — 48 semanas](../learning-paths/cti-48-semanas.md) · [Especialista SOC — 24 semanas](../learning-paths/soc-especialista.md) · [Laboratórios](../labs/README.md). As trilhas abaixo permanecem como portas de entrada introdutórias.
+
 Cada trilha tem objetivo, prática e prova de aprendizado. Os tempos são livres: avance pelo que consegue explicar e produzir, não pelo número de vídeos assistidos.
 
 ## Trilha A · Iniciante | Aprender a perguntar
@@ -51,3 +53,4 @@ flowchart TD
 4. Quem tomará a decisão e o que precisa saber primeiro?
 
 > **Estratégia de estudo:** um pequeno relatório bem fundamentado vale mais do que dezenas de links salvos sem leitura.
+

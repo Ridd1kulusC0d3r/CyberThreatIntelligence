@@ -1,19 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
-<title id="title">Cyber Threat Intelligence — Links &amp; Study</title>
-<desc id="desc">Banner azul-marinho com rede de nós, mapa conceitual e tipografia em destaque.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071326"/><stop offset=".65" stop-color="#111c3b"/><stop offset="1" stop-color="#09111f"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#47d1d2"/><stop offset="1" stop-color="#8e78ef"/></linearGradient><radialGradient id="halo"><stop stop-color="#4f6ce1" stop-opacity=".26"/><stop offset="1" stop-color="#4f6ce1" stop-opacity="0"/></radialGradient></defs>
-<rect width="1200" height="350" rx="16" fill="url(#bg)"/>
-<circle cx="992" cy="163" r="260" fill="url(#halo)"/>
-<g fill="none" stroke="#5c73ab" stroke-width="1.4" opacity=".35">
-<path d="M800 55 910 100 1020 54 1110 130 1050 240 935 278 832 220 800 55M910 100 935 278M1020 54 1050 240M832 220 1110 130M800 55 1050 240"/>
-<circle cx="800" cy="55" r="8"/><circle cx="910" cy="100" r="8"/><circle cx="1020" cy="54" r="8"/><circle cx="1110" cy="130" r="8"/><circle cx="1050" cy="240" r="8"/><circle cx="935" cy="278" r="8"/><circle cx="832" cy="220" r="8"/>
-</g>
-<g fill="#47d1d2"><circle cx="910" cy="100" r="5"/><circle cx="1050" cy="240" r="5"/><circle cx="832" cy="220" r="5"/></g>
-<rect x="62" y="53" rx="15" width="216" height="30" fill="#1b3650" stroke="#3ea9ba" stroke-opacity=".5"/>
-<text x="80" y="74" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2" fill="#8ee3e0">RESEARCH • LEARN • ASSESS</text>
-<text x="62" y="153" font-family="Arial,Helvetica,sans-serif" font-size="49" font-weight="700" fill="#f5f7ff">CYBER THREAT</text>
-<text x="62" y="209" font-family="Arial,Helvetica,sans-serif" font-size="49" font-weight="700" fill="url(#line)">INTELLIGENCE</text>
-<rect x="62" y="231" height="3" width="460" rx="1.5" fill="url(#line)"/>
-<text x="62" y="273" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#d0dafa">LINKS &amp; STUDY</text>
-<text x="62" y="307" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#9cb1cd">Evidências verificáveis • Métodos • Fontes • Estudos de caso</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="500" viewBox="0 0 1440 500" role="img" aria-labelledby="title desc">
+<title id="title">Cyber Threat Intelligence — Advanced Learning &amp; Research</title><desc id="desc">Identidade em azul profundo, menta e lavanda. Investigar, contextualizar, defender. Duas trilhas: CTI e SOC.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101D31"/><stop offset="1" stop-color="#080E1A"/></linearGradient><radialGradient id="glow"><stop stop-color="#39D8C5" stop-opacity=".15"/><stop offset="1" stop-color="#39D8C5" stop-opacity="0"/></radialGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#A7BCD2" stroke-opacity=".05"/></pattern></defs>
+<rect width="1440" height="500" rx="24" fill="url(#bg)"/><rect width="1440" height="500" rx="24" fill="url(#grid)"/>
+<circle cx="1190" cy="225" r="260" fill="url(#glow)"/>
+<g fill="none" stroke="#39D8C5" stroke-opacity=".25"><circle cx="1190" cy="225" r="155"/><circle cx="1190" cy="225" r="112"/><circle cx="1190" cy="225" r="65"/><path d="M1010 225h360M1190 45v360M1080 115l220 220M1080 335l220-220"/></g>
+<path d="M1095 290l70-90 100-40 56 110-131 42-95-22" fill="none" stroke="#A99BFF" stroke-width="2"/>
+<g fill="#39D8C5"><circle cx="1095" cy="290" r="6"/><circle cx="1165" cy="200" r="7"/><circle cx="1265" cy="160" r="6"/><circle cx="1321" cy="270" r="6"/></g><circle cx="1190" cy="312" r="8" fill="#A99BFF"/>
+<g font-family="DejaVu Sans,Arial,sans-serif"><rect x="64" y="55" width="6" height="24" rx="3" fill="#39D8C5"/><text x="86" y="74" fill="#39D8C5" font-size="15" letter-spacing="3">ADVANCED LEARNING &amp; RESEARCH</text>
+<text x="64" y="158" fill="#F3F7FC" font-size="64" font-weight="700">Cyber Threat</text><text x="64" y="231" fill="#F3F7FC" font-size="64" font-weight="700">Intelligence</text>
+<text x="67" y="285" fill="#B6C4D7" font-size="23">Investigar. Contextualizar. Defender.</text>
+<rect x="66" y="328" width="218" height="40" rx="20" fill="#39D8C5" fill-opacity=".10" stroke="#39D8C5" stroke-opacity=".4"/><text x="88" y="354" fill="#78EDDD" font-size="14">01 / CTI AVANÇADA</text>
+<rect x="299" y="328" width="242" height="40" rx="20" fill="#A99BFF" fill-opacity=".10" stroke="#A99BFF" stroke-opacity=".4"/><text x="321" y="354" fill="#C5BCFF" font-size="14">02 / ESPECIALISTA SOC</text>
+<path d="M64 419h1312" stroke="#243348"/><text x="66" y="455" fill="#8FA4BE" font-size="13" letter-spacing="2">FONTES → EVIDÊNCIAS → ANÁLISE → DECISÃO</text><text x="1160" y="455" fill="#8FA4BE" font-size="13">PT-BR / OPEN STUDY</text></g></svg>

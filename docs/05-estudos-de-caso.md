@@ -55,3 +55,4 @@ O episódio envolvendo divulgações atribuídas ao grupo conhecido como Shadow 
 | Recomendação | Medidas legais, proporcionais e defensivas |
 
 Para publicar o resultado, use o [modelo de relatório](06-relatorios.md).
+

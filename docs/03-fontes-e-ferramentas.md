@@ -87,3 +87,4 @@ Para vídeos com exercícios, comece pelos módulos da [MITRE CTI Training](http
 ### Política de inclusão
 
 O arquivo [resources/catalog.json](../resources/catalog.json) é a lista estruturada. Um link estar no catálogo **não significa** que seja um feed verificado continuamente. Para novas sugestões: registrar autor/proprietário, valor de estudo, tipo, nível de maturidade, linguagem, risco de manutenção e possível duplicação.
+

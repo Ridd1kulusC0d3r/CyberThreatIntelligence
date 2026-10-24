@@ -1,0 +1,26 @@
+[
+  {
+    "source_id": "feed-demo",
+    "id": "a1",
+    "observed_at": "2026-01-01T10:00:00Z",
+    "text": "domínio update.example citado em relatório sintético"
+  },
+  {
+    "source_id": "feed-demo",
+    "id": "a1",
+    "observed_at": "2026-01-01T10:00:00Z",
+    "text": "domínio update.example citado em relatório sintético"
+  },
+  {
+    "source_id": "feed-demo",
+    "id": "a1",
+    "observed_at": "2026-01-01T10:05:00Z",
+    "text": "edição: hipótese não corroborada"
+  },
+  {
+    "source_id": "feed-demo",
+    "id": "bad",
+    "observed_at": "ontem",
+    "text": null
+  }
+]

@@ -55,3 +55,4 @@
 **Excluir:** coleções de credenciais, dados privados, exploração ativa, malware executável, conteúdo ilegal e links cuja única função seja conduzir o leitor a tais materiais.
 
 O objetivo é **profundidade e confiabilidade**, não maximizar o contador de URLs.
+

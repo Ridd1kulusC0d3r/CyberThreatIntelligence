@@ -94,3 +94,4 @@ Use informações públicas ou dados cujo acesso seja autorizado; minimize dados
 ### Produto de aprendizagem
 
 Redija uma nota de **até uma página** com PIR, três fontes, duas hipóteses, limitação-chave, nível de confiança justificado e recomendação concreta.
+

@@ -64,3 +64,4 @@ flowchart TB
 - [FIRST](https://www.first.org/): padrões de resposta, coordenação e compartilhamento.
 
 > **Resumo Feynman:** se você não consegue explicar a alguém qual decisão muda depois de ler seu relatório, provavelmente produziu uma coleção de dados, não uma avaliação de inteligência.
+

@@ -54,3 +54,4 @@ if __name__ == "__main__":
         print("\n".join("ERRO: " + item for item in problems), file=sys.stderr)
         sys.exit(1)
     print(f"Catálogo válido: {total} recursos; checagem estrutural concluída.")
+
